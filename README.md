@@ -27,7 +27,8 @@ First we see the menu of this C program where the user is prompted to enter a ch
 
 ![218559057-82a5a63f-05fb-4ed3-86e7-0a6a52e8a641](https://user-images.githubusercontent.com/116751641/218714995-74e00fdf-6fbf-41fa-842c-c8b718127827.png)
 
-The program has two main functions, a)binary to_decimal and b)decimal to_binary. 
+The program has two main functions, a)binary to_decimal and b)decimal to_binary.
+
 a)The binary to_decimal function takes a binary number as an argument and returns its decimal equivalent. This is achieved by converting each digit of the binary number to its corresponding power of 2 and summing these values up. The binary number is first divided by 10 to extract its last digit, which is then multiplied by 2^0, since the last digit is the least significant bit. This process is repeated until the entire binary number has been processed.
 
 ![218559976-6a440ad0-3917-46a1-9cb0-3c9b37935469](https://user-images.githubusercontent.com/116751641/218715021-5ed110a8-63b4-46a9-97dd-c41a8fa01848.png)
