@@ -48,7 +48,8 @@ A)The decimal to binary function takes a decimal number as an argument and print
 B)The binary to decimal function takes a binary number as an argument and returns its decimal equivalent. This is achieved by converting each digit of the binary number to its corresponding power of 2 and summing these values up. The binary number is first divided by 10 to extract its last digit, which is then multiplied by 2^0, since the last digit is the least significant bit. This process is repeated until the entire binary number has been processed.
 
 
-![219147788-ba21d09e-38c9-46c9-b0f8-586056093afb](https://user-images.githubusercontent.com/116751641/219417551-a2b6a11a-5690-4e64-8234-8abb6ebaceab.png)
+![219147191-6eabdd79-9314-42dd-90fb-0106a545d6a8](https://user-images.githubusercontent.com/116751641/219422553-8e1ce5f6-3e6b-4a08-8e8e-16ea1a11daf7.png)
+
 
 
 
