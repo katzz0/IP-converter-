@@ -72,7 +72,7 @@ The main function first displays an ASCII art header and then prompts the user t
 To clone this repository
 
 ```
-https://github.com/<Vgvg777>/IP-Converter.git
+(https://github.com/Vgvg777/IP-Converter)
 ```
 
 <h1 style="font-size:36px">Compile the source code.</h4>
