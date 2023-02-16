@@ -39,7 +39,7 @@ The program has two main functions,a)decimal to binary  and b)binary to decimal.
 A)The decimal to binary function takes a decimal number as an argument and prints its binary equivalent. This is achieved by repeatedly dividing the decimal number by 2 and storing the remainder, which is the next most significant bit of the binary number. The bits are stored in an array and then printed in reverse order, starting from the most significant bit to the least significant bit.
 
 
-![219147191-6eabdd79-9314-42dd-90fb-0106a545d6a8](https://user-images.githubusercontent.com/116751641/219417510-e4e2759d-6227-4c58-90d9-b17a6b5b11f7.png)
+![219147788-ba21d09e-38c9-46c9-b0f8-586056093afb](https://user-images.githubusercontent.com/116751641/219422777-76e259c4-9249-4e60-8466-d1251d844b76.png)
 
 
 
